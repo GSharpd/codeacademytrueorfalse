@@ -1,0 +1,12 @@
+/home/ccuser/workspace/csharp-true-or-false/bin/Debug/netcoreapp2.2/TrueOrFalse.deps.json
+/home/ccuser/workspace/csharp-true-or-false/bin/Debug/netcoreapp2.2/TrueOrFalse.runtimeconfig.json
+/home/ccuser/workspace/csharp-true-or-false/bin/Debug/netcoreapp2.2/TrueOrFalse.runtimeconfig.dev.json
+/home/ccuser/workspace/csharp-true-or-false/bin/Debug/netcoreapp2.2/TrueOrFalse.dll
+/home/ccuser/workspace/csharp-true-or-false/bin/Debug/netcoreapp2.2/TrueOrFalse.pdb
+/home/ccuser/workspace/csharp-true-or-false/obj/Debug/netcoreapp2.2/TrueOrFalse.csprojAssemblyReference.cache
+/home/ccuser/workspace/csharp-true-or-false/obj/Debug/netcoreapp2.2/TrueOrFalse.csproj.CoreCompileInputs.cache
+/home/ccuser/workspace/csharp-true-or-false/obj/Debug/netcoreapp2.2/TrueOrFalse.AssemblyInfoInputs.cache
+/home/ccuser/workspace/csharp-true-or-false/obj/Debug/netcoreapp2.2/TrueOrFalse.AssemblyInfo.cs
+/home/ccuser/workspace/csharp-true-or-false/obj/Debug/netcoreapp2.2/TrueOrFalse.dll
+/home/ccuser/workspace/csharp-true-or-false/obj/Debug/netcoreapp2.2/TrueOrFalse.pdb
+/home/ccuser/workspace/csharp-true-or-false/obj/Debug/netcoreapp2.2/TrueOrFalse.genruntimeconfig.cache
